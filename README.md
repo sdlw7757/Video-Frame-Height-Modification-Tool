@@ -26,7 +26,8 @@
 - **内存**：建议 4GB 以上
 - **存储**：转换时需要足够的磁盘空间
 - **GPU**：可选，支持硬件加速
-<img width="794" height="723" alt="捕获" src="https://github.com/user-attachments/assets/4246c75a-6a4f-474b-a49b-c7c92d8410cc" />
+<img width="794" height="691" alt="捕获" src="https://github.com/user-attachments/assets/0f8efd62-9f7d-491f-a0b1-bd3937cb7657" />
+
 ##快速开始
 
 ### 1. 检查Python环境
