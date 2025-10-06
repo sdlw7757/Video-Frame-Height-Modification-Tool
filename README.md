@@ -27,6 +27,7 @@
 - **存储**：转换时需要足够的磁盘空间
 - **GPU**：可选，支持硬件加速
 <img width="794" height="691" alt="捕获" src="https://github.com/user-attachments/assets/0f8efd62-9f7d-491f-a0b1-bd3937cb7657" />
+<img width="626" height="580" alt="捕获" src="https://github.com/user-attachments/assets/79f0ec7e-d62c-4565-b4d5-7ec55c0139ad" />
 
 ##快速开始
 
